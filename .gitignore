@@ -1,0 +1,7 @@
+.idea/
+env/
+webapp/__pycache__/
+config.py
+python.org.html
+# OS X
+.DS_Store
